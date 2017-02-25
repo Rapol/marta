@@ -1,0 +1,9 @@
+{
+  "region": "us-east-1",
+  "resourcesStackName": "marta-api-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::645003999022:role/marta-api-dev-r-IamRoleLambda-1VHTS5K3EAEKN",
+  "apiGatewayApi": "marta-api",
+  "cartEventTable": "dev-marta-api-cart-event",
+  "carEventTable": "dev-marta-api-cart-event",
+  "trainEventTable": "dev-marta-api-train-event"
+}
